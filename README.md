@@ -1,4 +1,4 @@
-# Unreal Engine C++ Programming Samples
+# Unreal Engine C++ and Blueprint Programming Samples
 
 This repository contains selected C++ code samples from my Unreal Engine
 gameplay development work.
